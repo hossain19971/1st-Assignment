@@ -52,3 +52,18 @@ font-family: 'Roboto',sans-serif;
     background-repeat: no-repeat;
     background-position:left ;
 }
+.button-hire-me{
+    color:black ;
+    text-align:center;
+    background: wheat;
+    border-radius: 5%;
+}
+
+.brackgound-image-1{
+    background-image: url(images/pictures/download\ \(4\).jpg);
+}
+.backgound-image-2{
+    box-shadow: 10px 20px 30px pink;
+    background-color: black;
+}
+
