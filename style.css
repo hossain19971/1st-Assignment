@@ -61,9 +61,18 @@ font-family: 'Roboto',sans-serif;
 
 .brackgound-image-1{
     background-image: url(images/pictures/download\ \(4\).jpg);
+    margin-bottom: 40px;
+    border-radius: 2%;
 }
 .backgound-image-2{
     box-shadow: 10px 20px 30px pink;
     background-color: black;
+    margin-bottom: 40px;
+    border-radius: 2%;
+    
 }
+.backgound-color-3{
+    background-color: olivedrab;
+}
+
 
